@@ -1,6 +1,6 @@
-# AI Engineer Resources
+# AI Engineer Course
 
-Prompt Engineering is a skill that has transformed productivity by orders of magnitude.  Here I wanted to share some of the prompt examples and other resources that has made a difference for me
+Prompt Engineering is a skill that has transformed productivity by orders of magnitude.  Here I wanted to share my AI course, some of the prompt examples and other resources that has made a difference for me
 > _This repo will be updated with more resources in the next few weeks._
 
 - [About the AI Upskilling Course](#about-the-book)
