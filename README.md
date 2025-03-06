@@ -47,13 +47,15 @@ _This is a self-directed course, so it doesn't have a lot of code snippets._
 <br>
 <br>
 
-Jeff Dickerson, *AI Engineering*. O'Reilly Media, 2025.
+## 📚 Citation
+Jeff Dickerson, *Upskilling with AI*, 2025.
 
     @course{aiupskilling2025,  
         address = {USA},  
         author = {Jeff Dickerson},  
         isbn = {978-1801819312},   
-        publisher = {O'Reilly Media},  
-        title = {{AI Engineering}},  
+        publisher = {GitHub},
+        howpublished = {\url{[https://github.com/jeff-dickerson/ai-engineer-resources/README.md]},
+        title = {{Upskilling with AI}},  
         year = {2025}  
     }
