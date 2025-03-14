@@ -1,4 +1,4 @@
-# Prompt Use Cases
+# Prompt Examples
 Prompt examples I've used in my workflow, some from actual cases (shared by their developers) and hypothetical prompts to demonstrate different prompt engineering techniques. More prompts will be added over time.
 
 - [Project Documentation](#project-documentation)
