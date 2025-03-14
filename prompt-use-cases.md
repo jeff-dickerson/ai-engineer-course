@@ -1,15 +1,15 @@
 # Prompt Use Cases
 Prompt examples I've used in my workflow, some from actual cases (shared by their developers) and hypothetical prompts to demonstrate different prompt engineering techniques. More prompts will be added over time.
 
-- [Prompt use cases](#real-world-use-case-prompts)
-    - [Project Documentation: Financial assistant](#project-documentation)
+- [Project Documentation](#project-documentation)
+    - [Problem Statement: What you are solving](#problem-statement)
     - [Core Requirements: List of project essential elements](#core-requirements)
     - [Project Management Tracking: Track the progress of tasks](#project-management-tracking)
     - [Business Reqs & Product Reqs: Comprehensive requirements documentation](#create-business-reqs-&-product-reqs)
 
 
 - [Real-world use case prompts](#real-world-use-case-prompts)
-    - [Brex: Financial assistant](#brex-financial-assistant)
+    - [Finance: vendor management](#function-function)
     - [Cursor: Task-or-not classifier](#cursor-task-or-not-classifier)
     - [Grab: Data entity classification](#grab-data-entity-classification)
     - [Pinterest: Text-to-SQL](#pinterest-text-to-sql)
@@ -19,11 +19,13 @@ Prompt examples I've used in my workflow, some from actual cases (shared by thei
 
 
 
-### Project Documentation
+## Project Documentation
 This prompt sequence is for creating project documentation and developer planning for sprint.
 - **High level architecture**
 - **Initial set of user stories**
 - **Project management tracking**
+
+### Problem Statement
 
 ```
 Sufficiently describe problem you are solving in steps then ask this prompt:
@@ -145,7 +147,7 @@ Create three enhanced prompts for these three scenarios, and be sure to use mult
 ## Real world use case prompts
 
 
-### Use Case for Finance function
+### Finance function
 
 Here's a step-by-step process that allows a user to interact with a Large Language Model (LLM) to work through the vendor master data setup and maintenance workflow. The process includes well-thought-out prompts and user instructions to guide the interaction.
 
