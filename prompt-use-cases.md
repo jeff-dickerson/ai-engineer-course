@@ -9,7 +9,7 @@ Prompt examples I've used in my workflow, some from actual cases (shared by thei
 
 
 - [Real-world use case prompts](#real-world-use-case-prompts)
-    - [Finance: vendor management](#function-function)
+    - [Finance: vendor management](#finance-function)
     - [Cursor: Task-or-not classifier](#cursor-task-or-not-classifier)
     - [Grab: Data entity classification](#grab-data-entity-classification)
     - [Pinterest: Text-to-SQL](#pinterest-text-to-sql)
