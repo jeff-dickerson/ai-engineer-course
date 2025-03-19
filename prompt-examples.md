@@ -1,6 +1,9 @@
 # Prompt Examples
 Prompt examples I've used in my workflow, some from actual cases (shared by their developers) and hypothetical prompts to demonstrate different prompt engineering techniques. More prompts will be added over time.
-==Whats different==? > My prompts deal with workflows, skills and professional function that requires domain knowledge to execute
+</br>
+</br>
+<ins>***Whats different?***</ins>   
+My prompts deal with workflows, skills and professional function that requires domain knowledge to execute  
 
 - [Project Documentation](#project-documentation)
     - [Problem Statement: What you are solving](#problem-statement)
