@@ -17,7 +17,7 @@ Prompt Engineering is a skill that has transformed productivity by orders of mag
     - [ChatGPT and Claude conversation heatmap generator](scripts/ai-heatmap.ipynb)
 - And more ...
 
-## About the AI Upksilling Course
+## About the AI Upskilling Course
 I created this course to help engineers, skilled professionals & entrepreneurs who are struggling to transition into AI technology, to leverage their domain knowledge using Gen AI to become an indemand technologist so they can stop worrying about their career, be seen as a go-to expert in their field, & #UDE (Upskill for Digital Economy).
 
 [<img src="assets/aie-cover.png" width="250">](https://amzn.to/49j1cGS)[<img src="assets/aie-cover-back.png" width="250">](https://amzn.to/49j1cGS)
